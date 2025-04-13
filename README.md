@@ -10,9 +10,6 @@ Welcome to the **Number Guessing Game** — a simple yet fun Python terminal gam
 # Technologies used:
 Python - Programming language used used to build and run the application.
 Random - generates a random number between 1 and 100 for guessing game.
-Time - Tracks how long a player takes to guess the correct number.
-json -  Saves and loads the leaderboard data (player scores) in a JSON file.
-numpy - Useful for numerical operations or random selections.
-pandas -  Used for data manipulation and leaderboard formatting.
-
-
+Loops and conditional statements - used to control game flow and decision making. 
+Exception handling - ensures smooth execution by handling invalid inputs.
+Standard Input/Output(I/O) - takes user's input and displays output. 
